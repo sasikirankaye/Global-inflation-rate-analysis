@@ -6,6 +6,9 @@ World inflation rate for 2019 was 2.15%, a 0.27% decline from 2018.
 World inflation rate for 2018 was 2.42%, a 0.24% increase from 2017.
 World inflation rate for 2017 was 2.18%, a 0.69% increase from 2016.
 
+# Problem Statement
+To Predict the inflation rates based on the data between 1981-2020.
+
 ## Important Insigts
 
 Global inflation rate from 1981 to 2020
@@ -15,3 +18,25 @@ Inflation is often defined as the continued increase in the general level of pri
 The global regions with the highest year-on-year inflation rate in 2014 are the Middle East and North Africa, as well as Africa Sub-Sahara. The nations in the world with the highest inflation rates in 2015 were Venezuela and Ukraine. Interestingly, in 2015, the inflation rate in Venezuela was approximately three times as high as the inflation rate in Ukraine.
 As a result of a global economic downturn, the lack of a sufficient central bank, and the rise in interest rates, the cost of living in the Middle East has also become much higher than in industrialized countries. The inflation rate in industrialized countries in 2015 was just about 0.35 percent. Meanwhile, the inflation rate in the Middle East and North Africa amounted to more than 6.2 percent.
 Due to economical progress following the global financial crisis, developed countries in the European Union and the euro area set forth economic strategies to strengthen their economy and maintain a stable economy. In addition, stagnant worker wages and a hesitation from banks to easily distribute loans to ordinary citizens have also caused the inflation rate in the euro zone to be relatively low. In 2015, Grenada and Switzerland reported the lowest inflation rates in 2015 in comparison to the previous year.
+
+
+### Global_Inflation_in_different_years
+
+<img src="https://github.com/sasikirankaye/Global-inflation-rate-analysis/blob/main/images/Inflation_in_different_years.png">
+ The inflation peaks observed in the years 1981,1994,2008
+
+### Inflation_in_different_yeras_bar
+<img src="https://github.com/sasikirankaye/Global-inflation-rate-analysis/blob/main/images/Inflation_in_different_yeras_bar.png">
+The products available were Fruits-Veggies and Snack Foods but the sales of Seafood and Starchy Foods seems higher and
+hence the sales can be improved with having stock of products that are most bought by customers
+
+### inflation_of_countries
+<img src="https://github.com/sasikirankaye/Global-inflation-rate-analysis/blob/main/images/inflation_of_countries.png">
+most of the outlets are medium sized
+
+### Scores
+<img src="https://github.com/sasikirankaye/Global-inflation-rate-analysis/blob/main/images/scores.png">
+most of the outlets are present in the tier3 location
+
+# Predictive Modelling results
+In order to find a decent model to predict sales we performed an extensive search of various machine learning models(Gradient boosting trees,linear regression, knn etc) available in Python.Random forest regressor algorithm performed particularly well. 
