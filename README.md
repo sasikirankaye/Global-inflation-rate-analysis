@@ -27,16 +27,16 @@ Due to economical progress following the global financial crisis, developed coun
 
 ### Inflation_in_different_yeras_bar
 <img src="https://github.com/sasikirankaye/Global-inflation-rate-analysis/blob/main/images/Inflation_in_different_yeras_bar.png">
-The products available were Fruits-Veggies and Snack Foods but the sales of Seafood and Starchy Foods seems higher and
-hence the sales can be improved with having stock of products that are most bought by customers
+
 
 ### inflation_of_countries
 <img src="https://github.com/sasikirankaye/Global-inflation-rate-analysis/blob/main/images/inflation_of_countries.png">
-most of the outlets are medium sized
+
+South asia region affected mostly by inflation
 
 ### Scores
 <img src="https://github.com/sasikirankaye/Global-inflation-rate-analysis/blob/main/images/scores.png">
-most of the outlets are present in the tier3 location
+Random forest algorithm performed well
 
 # Predictive Modelling results
 In order to find a decent model to predict sales we performed an extensive search of various machine learning models(Gradient boosting trees,linear regression, knn etc) available in Python.Random forest regressor algorithm performed particularly well. 
