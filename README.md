@@ -34,9 +34,10 @@ Due to economical progress following the global financial crisis, developed coun
 
 South asia region affected mostly by inflation
 
-### Scores
-<img src="https://github.com/sasikirankaye/Global-inflation-rate-analysis/blob/main/images/scores.png">
-Random forest algorithm performed well
 
 # Predictive Modelling results
 In order to find a decent model to predict sales we performed an extensive search of various machine learning models(Gradient boosting trees,linear regression, knn etc) available in Python.Random forest regressor algorithm performed particularly well. 
+
+### Scores
+<img src="https://github.com/sasikirankaye/Global-inflation-rate-analysis/blob/main/images/scores.png">
+Random forest algorithm performed well
